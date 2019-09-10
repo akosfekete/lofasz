@@ -1,0 +1,11 @@
+/home/black/RiderProjects/gyak02/oraimunka/bin/Debug/netcoreapp2.2/oraimunka.deps.json
+/home/black/RiderProjects/gyak02/oraimunka/bin/Debug/netcoreapp2.2/oraimunka.runtimeconfig.json
+/home/black/RiderProjects/gyak02/oraimunka/bin/Debug/netcoreapp2.2/oraimunka.runtimeconfig.dev.json
+/home/black/RiderProjects/gyak02/oraimunka/bin/Debug/netcoreapp2.2/oraimunka.dll
+/home/black/RiderProjects/gyak02/oraimunka/bin/Debug/netcoreapp2.2/oraimunka.pdb
+/home/black/RiderProjects/gyak02/oraimunka/obj/Debug/netcoreapp2.2/oraimunka.csprojAssemblyReference.cache
+/home/black/RiderProjects/gyak02/oraimunka/obj/Debug/netcoreapp2.2/oraimunka.csproj.CoreCompileInputs.cache
+/home/black/RiderProjects/gyak02/oraimunka/obj/Debug/netcoreapp2.2/oraimunka.AssemblyInfoInputs.cache
+/home/black/RiderProjects/gyak02/oraimunka/obj/Debug/netcoreapp2.2/oraimunka.AssemblyInfo.cs
+/home/black/RiderProjects/gyak02/oraimunka/obj/Debug/netcoreapp2.2/oraimunka.dll
+/home/black/RiderProjects/gyak02/oraimunka/obj/Debug/netcoreapp2.2/oraimunka.pdb

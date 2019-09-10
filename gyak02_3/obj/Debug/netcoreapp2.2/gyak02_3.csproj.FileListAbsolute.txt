@@ -1,0 +1,11 @@
+/home/black/RiderProjects/gyak02/gyak02_3/bin/Debug/netcoreapp2.2/gyak02_3.deps.json
+/home/black/RiderProjects/gyak02/gyak02_3/bin/Debug/netcoreapp2.2/gyak02_3.runtimeconfig.json
+/home/black/RiderProjects/gyak02/gyak02_3/bin/Debug/netcoreapp2.2/gyak02_3.runtimeconfig.dev.json
+/home/black/RiderProjects/gyak02/gyak02_3/bin/Debug/netcoreapp2.2/gyak02_3.dll
+/home/black/RiderProjects/gyak02/gyak02_3/bin/Debug/netcoreapp2.2/gyak02_3.pdb
+/home/black/RiderProjects/gyak02/gyak02_3/obj/Debug/netcoreapp2.2/gyak02_3.csprojAssemblyReference.cache
+/home/black/RiderProjects/gyak02/gyak02_3/obj/Debug/netcoreapp2.2/gyak02_3.csproj.CoreCompileInputs.cache
+/home/black/RiderProjects/gyak02/gyak02_3/obj/Debug/netcoreapp2.2/gyak02_3.AssemblyInfoInputs.cache
+/home/black/RiderProjects/gyak02/gyak02_3/obj/Debug/netcoreapp2.2/gyak02_3.AssemblyInfo.cs
+/home/black/RiderProjects/gyak02/gyak02_3/obj/Debug/netcoreapp2.2/gyak02_3.dll
+/home/black/RiderProjects/gyak02/gyak02_3/obj/Debug/netcoreapp2.2/gyak02_3.pdb

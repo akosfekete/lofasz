@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/black/RiderProjects/gyak02/oraimunka/oraimunka.csproj": {}
+  },
+  "projects": {
+    "/home/black/RiderProjects/gyak02/oraimunka/oraimunka.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/black/RiderProjects/gyak02/oraimunka/oraimunka.csproj",
+        "projectName": "oraimunka",
+        "projectPath": "/home/black/RiderProjects/gyak02/oraimunka/oraimunka.csproj",
+        "packagesPath": "/home/black/.nuget/packages/",
+        "outputPath": "/home/black/RiderProjects/gyak02/oraimunka/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/black/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
